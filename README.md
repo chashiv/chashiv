@@ -28,6 +28,6 @@ Pick a slot if you'd like to connect with me :)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chashiv&show_icons=true&locale=en&layout=compact" alt="chashiv" /></p>
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=chashiv)](https://github.com/chashiv/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chashiv"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chashiv&" alt="chashiv" /></p>
