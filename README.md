@@ -2,9 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chashiv&label=Profile%20views&color=0e75b6&style=flat" alt="chashiv" /> </p>
 
+<p align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="chashiv" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chashiv" alt="chashiv" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/connectwithshivam/30-minute-meeting" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
