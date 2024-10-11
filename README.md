@@ -34,8 +34,6 @@ Pick a slot if you'd like to connect with me :)
 
 > 📦 2.7 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -102,7 +100,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chashiv/chashiv/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2024 01:20:11 UTC
+ Last Updated on 11/10/2024 01:20:29 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chashiv&show_icons=true&locale=en&layout=compact" alt="chashiv" /></p>
