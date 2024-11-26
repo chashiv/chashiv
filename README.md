@@ -69,18 +69,16 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 3 mins         ████████████████████████░   96.60 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+JavaScript               55 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-inno-emailengine         1 hr 3 mins         ████████████████████████░   96.61 % 
-backend                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+inno-emailengine         55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -100,7 +98,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chashiv/chashiv/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2024 01:26:30 UTC
+ Last Updated on 26/11/2024 01:25:49 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chashiv&show_icons=true&locale=en&layout=compact" alt="chashiv" /></p>
