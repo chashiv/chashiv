@@ -111,4 +111,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chashiv"/></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chashiv)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chashiv" alt="GitHub Streak" />
+</a>
