@@ -26,7 +26,7 @@ Pick a slot if you'd like to connect with me :)
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nimasfl/nestjs-icons/blob/master/nest-.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,7 +34,7 @@ Pick a slot if you'd like to connect with me :)
 
 > 📦 2.9 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2025
+> 🏆 47 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -45,21 +45,21 @@ Pick a slot if you'd like to connect with me :)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-🌆 Daytime                69 commits          ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-🌃 Evening                101 commits         ███████████░░░░░░░░░░░░░░   42.98 % 
-🌙 Night                  47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+🌆 Daytime                69 commits          ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+🌃 Evening                101 commits         ███████████░░░░░░░░░░░░░░   42.44 % 
+🌙 Night                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Tuesday                  41 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Wednesday                63 commits          ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-Thursday                 33 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Saturday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Sunday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Tuesday                  41 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Wednesday                63 commits          ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Thursday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Friday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Saturday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Sunday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 ```
 
 
@@ -69,23 +69,20 @@ Sunday                   39 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   13 hrs 45 mins      █████████████████████░░░░   85.82 % 
-TypeScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Python                   14 hrs 15 mins      ██████████████████████░░░   89.57 % 
+TypeScript               1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 54 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-python_dsa               13 hrs 45 mins      █████████████████████░░░░   85.82 % 
-labeling-tool            2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+python_dsa               14 hrs 15 mins      ██████████████████████░░░   89.57 % 
+labeling-tool            1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 turing                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      16 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -105,7 +102,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chashiv/chashiv/main/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2025 01:19:18 UTC
+ Last Updated on 24/01/2025 01:19:34 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chashiv&show_icons=true&locale=en&layout=compact" alt="chashiv" /></p>
