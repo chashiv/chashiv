@@ -69,21 +69,16 @@ Sunday                   48 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 55 mins       ███████████████████░░░░░░   76.22 % 
-HTML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-inno-emailengine         5 hrs 2 mins        █████████████████████████   98.16 % 
-python_dsa               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -103,7 +98,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chashiv/chashiv/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2025 01:23:20 UTC
+ Last Updated on 28/02/2025 01:23:22 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chashiv&show_icons=true&locale=en&layout=compact" alt="chashiv" /></p>
