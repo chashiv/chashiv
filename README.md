@@ -28,19 +28,19 @@ Pick a slot if you'd like to connect with me :)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 78.5 kB Used in GitHub's Storage 
+> 📦 78.8 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -90,11 +90,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
-C++                      7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
+C++                      7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
@@ -104,7 +104,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chashiv/chashiv/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 01:20:07 UTC
+ Last Updated on 22/08/2026 01:15:48 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chashiv&show_icons=true&locale=en&layout=compact" alt="chashiv" /></p>
