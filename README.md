@@ -32,15 +32,15 @@ Pick a slot if you'd like to connect with me :)
 
 **🐱 My GitHub Data** 
 
-> 📦 79.2 kB Used in GitHub's Storage 
+> 📦 81.5 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -90,11 +90,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-C++                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+C++                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -104,7 +104,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chashiv/chashiv/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 03:21:26 UTC
+ Last Updated on 18/10/2026 03:26:50 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chashiv&show_icons=true&locale=en&layout=compact" alt="chashiv" /></p>
